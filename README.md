@@ -1,4 +1,17 @@
 # Voxel game engine
+
+## Links:
+1. [learning resources](./docs/resources.md)
+
+## How to build:
+
+### Dependencies:
+1. a
+2. b
+3. c
+
+--------------------------------------------------------------
+
 ## Things to do:
 
 **CMAKE**
