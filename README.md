@@ -7,7 +7,7 @@
 
 **CMAKE**
 
-- [ ] Setup cmake
+- [ ] Setup cmake with conan
 - [ ] Add C++ 20 c++ version in cmake
 - [ ] Add opengl and other libraries
 - [ ] Setup gtests
