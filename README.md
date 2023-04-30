@@ -7,6 +7,7 @@
 
 **CMAKE**
 
+- [ ] Create .bat scripts for conan and cmake
 - [ ] Setup cmake with conan
 - [ ] Setup gitignore
 - [ ] Add C++ 20 c++ version in cmake
