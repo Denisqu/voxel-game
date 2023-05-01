@@ -7,9 +7,9 @@
 
 **CMAKE**
 
-- [ ] Create .bat scripts for conan and cmake
-- [ ] Setup cmake with conan
-- [ ] Setup gitignore
+- [ ] Create .bat scripts for cmake
+- [ ] Setup cmake with vcpkg
+- [ x ] Setup gitignore
 - [ ] Add C++ 20 c++ version in cmake
 - [ ] Add opengl and other libraries
 - [ ] Setup gtests
@@ -20,9 +20,10 @@
 ## How to build:
 
 ### Dependencies:
-1. a
-2. b
-3. c
+```
+vcpkg install glfw3:x64-windows
+vcpkg install glad[gl-api-latest]:x64-windows
+```
 
 --------------------------------------------------------------
 
