@@ -9,7 +9,7 @@
 
 - [ ] Create .bat scripts for cmake
 - [ ] Setup cmake with vcpkg
-- [ x ] Setup gitignore
+- [x] Setup gitignore
 - [ ] Add C++ 20 c++ version in cmake
 - [ ] Add opengl and other libraries
 - [ ] Setup gtests
