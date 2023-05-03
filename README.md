@@ -5,6 +5,10 @@
 
 ## Things to do:
 
+**ENGINE**
+
+- [ ] Complete "https://learnopengl.com/Getting-started"
+
 **CMAKE**
 
 - [x] ~~Create .bat scripts for cmake~~
