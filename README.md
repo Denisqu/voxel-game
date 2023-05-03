@@ -8,14 +8,14 @@
 **CMAKE**
 
 - [x] ~~Create .bat scripts for cmake~~
-- [ ] Setup cmake with vcpkg
+- [x] ~~Setup cmake with vcpkg~~
 - [x] ~~Setup gitignore~~
 - [ ] Add C++ 20 c++ version in cmake
-- [ ] Add opengl and other libraries
+- [x] ~~Add opengl and other libraries~~
 - [ ] Setup gtests
 
 **README**
-- [ ] Write instructions for building a project
+- [x] ~~Write instructions for building a project~~
 
 ## How to build:
 
