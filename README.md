@@ -7,7 +7,7 @@
 
 **CMAKE**
 
-- [ ] Create .bat scripts for cmake
+- [x] ~~Create .bat scripts for cmake~~
 - [ ] Setup cmake with vcpkg
 - [x] ~~Setup gitignore~~
 - [ ] Add C++ 20 c++ version in cmake
