@@ -29,6 +29,9 @@
 - [x] ~~Write instructions for building a project~~
 
 ## How to build:
+```
+cmake -G "Visual Studio 17 2022" -DVCPKG_PATH="C:/Users/Denis/My Data/Работа/git projects/vcpkg/vcpkg" -B./build
+```
 
 ### Dependencies:
 ```
