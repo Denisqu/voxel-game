@@ -8,13 +8,8 @@
 **ENGINE**
 
 - [ ] Complete "https://learnopengl.com/Getting-started"
-- [ ] Complete "https://learnopengl.com/Lighting/"
-- [ ] Complete "https://learnopengl.com/Model-Loading/"
-- [ ] Complete "https://learnopengl.com/Getting-started"
-- [ ] Complete "https://learnopengl.com/Advanced-OpenGL/Depth-testing"
-- [ ] Refactor code after tutorials
-- [ ] Develop basic voxel terrain generator
-- [ ] Develop new voxel renderer based on rendering voxels with ray-tracing (or pathtracing, etc...)
+- [ ] Прочитать хорошую статью о path-traced rendering в 2д "https://lodev.org/cgtutor/raycasting.html"
+- [ ] Разобраться как работает "https://www.shadertoy.com/view/7dK3D3", сделать копию
 
 **CMAKE**
 
