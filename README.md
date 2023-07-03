@@ -10,6 +10,7 @@
 - [ ] Complete "https://learnopengl.com/Getting-started"
 - [ ] Прочитать хорошую статью о path-traced rendering в 2д "https://lodev.org/cgtutor/raycasting.html"
 - [ ] Разобраться как работает "https://www.shadertoy.com/view/7dK3D3", сделать копию
+- [ ] Посмотреть интервью о voxel рендер-движке Teradown https://www.youtube.com/watch?v=0VzE8ROwC58&ab_channel=candr
 
 **CMAKE**
 
